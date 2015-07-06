@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<div class="gallery">
+  {% for photo in page.photos %}
+    {% capture img_path %}
+    {{ site.baseurl }}/assets/galleries/{{ page.title | slugify }}/{{ photo }}
+    {% endcapture %}
+    <a href="{{ img_path }}" data-lightbox="KFN Gallery" class="thumbnail" style="background-image: url({{ img_path }}); background-position: initial initial; background-repeat: no-repeat no-repeat;"></a>
+  {% endfor %}
+</div>

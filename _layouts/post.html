@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <div class="content full">
+    <div class="news-item">
+      <header class="post-header">
+        <h2 class="post-title">{{ page.title }}</h2>
+        <p class="pub-date">({{ page.date | date: "%m/%d/%Y" }})</p>
+      </header>
+
+      <article class="post-content">
+        {{ content }}
+      </article>
+    </div>
+  </div>
+
+</div>

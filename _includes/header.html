@@ -1,0 +1,24 @@
+{% comment %} Get current directory to mark active link {% endcomment %}
+{% assign current_dir_full = page.url | split: '/' %}
+{% assign current_dir = current_dir_full[1] %}
+
+<header class="page-header">
+  <div id="title">
+    <div class="wrapper">
+      <h1>Kingsclear First Nation</h1>
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/{{ site.logo }}" alt="Logo"></a>
+    </div>
+  </div>
+  <nav id="main-nav">
+    <ul class="menu">
+      {% for menu in site.data.menu %}
+        {% if menu.sub_pages %}
+          {% assign link = menu.sub_pages[0].path %}
+        {% else %}
+          {% assign link = menu.path %}
+        {% endif %}
+        <li><a class="page-link{% if menu.dir == current_dir %} active{% endif %}" href="{{ link | prepend: site.baseurl }}">{{ menu.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

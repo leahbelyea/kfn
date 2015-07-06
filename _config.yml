@@ -1,0 +1,29 @@
+# Site settings
+title: Kingsclear First Nation
+email: leahbelyea@gmail.com
+description: |
+  Kingsclear First Nation is located along the Saint John River, approximately 15 km west of the City of Fredericton, New Brunwsick.
+
+  The registered population of the Kingsclear First Nation is approximately 981 members, with 692 members residing on-reserve.
+
+logo: KFN-Logo.png
+excerpt_separator: <!--end-excerpt-->
+baseurl: ""
+url: "http://www.kingsclear.ca"
+github_username: n9i5a
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 10
+paginate_path: "/news-events/news/page:num/"
+exclude: ["bower_components", "css/bower.css", "css/kfn.css", "css/kfn.css.map", "js/bower.js", "js/kfn.js", "js/kfn.min.js", "node_modules", "sass", ".gitignore", "bower.json", "Gruntfile.js", "package.json", "README.md"]
+
+# Homepage slider
+slider_images:
+- slider1.jpg
+- slider2.jpg
+- slider3.jpg
+- slider4.jpg
+- slider5.jpg
+- slider6.jpg

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="page">
+  {% unless page.full %}
+    {% include sidebar.html %}
+  {% endunless %}
+
+  <div class="content{% if page.full %} full{% endif %}">
+    <header class="post-header">
+      <h2 class="post-title">{{ page.title }}</h2>
+    </header>
+
+    <article class="post-content">
+      {{ content }}
+    </article>
+  </div>
+
+</div>

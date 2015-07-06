@@ -1,0 +1,24 @@
+{
+  "name": "KFNjekyll",
+  "version": "0.0.0",
+  "authors": [
+    "n9i5a <leahbelyea@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lightbox2": "~2.8.0",
+    "flexslider": "~2.5.0",
+    "jquery": "~2.1.4"
+  }
+}

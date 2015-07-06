@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="main-feature">
+    <div class="main-photo flexslider">
+      <ul class="slides">
+        {% for image_path in site.slider_images %}
+          <li><img src="{{ site.baseurl }}/assets/home-slideshow/{{ image_path }}" alt="Slideshow image"></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="main-text">
+      <h2>{{ site.title }}</h2>
+      {{ site.description | newline_to_br }}
+    </div>
+    <div class="clear"></div>
+  </div>
+  
+  <div class="recent-news">
+    <h2>Recent News</h2>
+    {% for post in site.posts limit: 3 %}
+    <div class="news-item teaser">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="header-link"><h3>{{ post.title }}</h3></a>
+      <div class="excerpt">{{ post.excerpt }}</div>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read More ></a>
+    </div>
+  {% endfor %}
+  </div>
+
+</div>

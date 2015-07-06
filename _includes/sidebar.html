@@ -1,0 +1,43 @@
+{% comment %} Get submenus associated with current page {% endcomment %}
+{% assign current_dir_full = page.url | split: '/' %}
+{% assign current_dir = current_dir_full[1] %}
+{% assign current_subdir = current_dir_full[2] %}
+{% assign sub_menus = site.data.menu | where: 'dir', current_dir %}
+{% comment %} Get current page to mark active link {% endcomment %}
+{% assign current_page = current_dir_full | last %}
+
+<nav id="secondary-nav">
+  <ul class="menu">
+
+
+    {% for sub_menu in sub_menus %}
+      {% for link in sub_menu.sub_pages %}
+        {% comment %} Show sub links only if the page we're on is the parent link or a sub of the parent link {% endcomment %}
+        {% assign link_dir_full = link.path | split: '/' %}
+        {% assign link_subdir = link_dir_full[2] %}
+        {% if link_subdir == current_subdir  %}
+          {% assign show_sub_links = true %}
+        {% else %}
+          {% assign show_sub_links = false %}
+        {% endif %}
+        {% comment %} Get link page for marking active link {% endcomment %}
+        {% assign link_page = link_dir_full | last %}
+
+        <li>
+        <a class="page-link{% if link_page == current_page %} active{% endif %}" href="{{ link.path | prepend: site.baseurl }}">{{ link.name }}</a>
+        {% if show_sub_links and link.sub_pages %}
+          <ul class="menu">
+            {% for sub_link in link.sub_pages %}
+              {% comment %} Get link page for marking active link {% endcomment %}
+              {% assign sub_link_dir_full = sub_link.path | split: '/' %}
+              {% assign sub_link_page = sub_link_dir_full | last %}
+
+              <li><a class="sub-page-link{% if sub_link_page == current_page %} active{% endif %}" href="{{ sub_link.path | prepend: site.baseurl }}">{{ sub_link.name }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</nav>

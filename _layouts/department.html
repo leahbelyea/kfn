@@ -1,0 +1,55 @@
+---
+layout: page
+---
+
+<div class="department">
+  {% if page.photo %}
+    <img src="{{ site.baseurl }}/assets/{{ page.photo }}" alt="{% if page.photo_alt %}{{ page.photo_alt}}{% endif %}">
+  {% endif %}
+
+  {% if page.alert %}<p class="alert">{{ page.alert }}</p>{% endif %}
+
+  <div class="contact">
+  {% if page.address %}
+    <div class="address">
+      <address>
+        {{ page.address | newline_to_br }}
+      </address>
+    </div>
+  {% endif %}
+
+  {% if page.hours %}
+    <div class="hours">
+      {% unless page.hide_hours_header %}<h4>Hours of Operation</h4>{% endunless %}
+      {{ page.hours | newline_to_br }}
+    </div>
+  {% endif %}
+  </div>
+
+  {% if content.size > 0 %}
+    <h3>General Information and Services</h3>
+    {{ content }}
+  {% endif %}
+
+  {% if page.coming_soon %}
+    <p>Coming soon, stay tuned!</p>
+  {% endif %}
+
+  {% assign posts = site.categories[page.news_category] %}
+  {% if posts %}
+    <h3>Latest News</h3>
+    {% for post in site.categories[page.news_category] %}
+      <div class="news-item teaser">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="header-link"><h4>{{ post.title }}</h4></a>
+        <p class="pub-date">({{ post.date | date: "%m/%d/%Y" }})</p>
+        <div class="excerpt">{{ post.excerpt }}</div>
+
+        {% capture length_difference %}{{ post.excerpt.size | minus: post.content.size }}{% endcapture %}
+        {% if length_difference contains '-' %}
+          <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read More ></a>
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endif %}
+</div>
+
