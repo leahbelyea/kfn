@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Mactaquac Project Community Open House"
+date: 2015-08-06
+---
+
+On August 4, 2015 Kingsclear First Nation hosted NB Power for a community open house at the Wulastukw Elementary School. The event was well attended and provided attendees an opportunity to engage with NB Power subject matter experts on a number of topics related to the Mactaquac project.<!--end-excerpt--> The event included a number of different stations detailing topics such as; the three project options, the comparative environmental review process, the Aboriginal engagement program (including a booth focusing on youth engagement). A preview of the conceptual plans developed by KFN Chief and Council and our partners Dillon Consulting Limited and NB Power for improvements to the community shoreline was also presented. The attendees had an opportunity to provide input on each of the three project options proposed for the Mactaquac Hydroelectric Generating Station, as well as other thoughts on how to keep informed and be involved. Much of the details presented at the open house, as well as other project related information is available [here](http://www.mactaquac.ca/). The website also allows the opportunity for those interested to provide their email addresses for project related updates, as well as contact information for NB Power for project related inquiries.

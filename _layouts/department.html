@@ -38,7 +38,7 @@ layout: page
   {% assign posts = site.categories[page.news_category] %}
   {% if posts %}
     <h3>Latest News</h3>
-    {% for post in site.categories[page.news_category] %}
+    {% for post in posts %}
       <div class="news-item teaser">
         <a href="{{ post.url | prepend: site.baseurl }}" class="header-link"><h4>{{ post.title }}</h4></a>
         <p class="pub-date">({{ post.date | date: "%m/%d/%Y" }})</p>
