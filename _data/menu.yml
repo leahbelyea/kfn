@@ -24,6 +24,8 @@
     sub_pages:
     - name: 'Senior Notices'
       path: '/news-events/community-newsletter/senior-notices'
+    - name: 'Resource Development Coordinator Notices'
+      path: '/news-events/community-newsletter/resource-development-coordinator-notices'
 
 - name: 'Departments & Services'
   dir: 'departments-services'
@@ -83,6 +85,8 @@
     sub_pages:
     - name: 'Senior Notices'
       path: '/community/community-newsletter/senior-notices'
+    - name: 'Resource Development Coordinator Notices'
+      path: '/community/community-newsletter/resource-development-coordinator-notices'
   - name: 'Community Plan'
     path: '/community/community-plan'
   - name: 'Economic Development'

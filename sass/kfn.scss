@@ -166,16 +166,21 @@ footer {
       ul {
         position: static;
         visibility: visible;
+        margin-left: 48px;
 
         li {
-          list-style: disc inside;
+          list-style: disc outside;
           color: white;
         }
 
         a {
           font-size: 15px;
-          line-height: 15px;
-          padding: 5px 0 8px 30px;
+          line-height: 18px;
+          padding: 5px 0 8px 0;
+        }
+
+        a, a:hover, a.active {
+          background: none;
         }
       }
     }
@@ -384,6 +389,18 @@ footer {
 
     .clear-photo {
       margin-left: $post-img-width + $post-img-margin-right;
+    }
+  }
+}
+
+ul.senior-notices {
+  padding: 0;
+
+  li {
+    list-style: none;
+
+    a {
+      margin-right: 10px;
     }
   }
 }

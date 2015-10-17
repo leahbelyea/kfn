@@ -1,0 +1,11 @@
+{% for year in site.data.resource-development-coordinator-notices %}
+  <h3>{{ year.year }}</h3>
+  <ul class="senior-notices">
+  {% for notice in year.notices %}
+    <li>
+      <a href="/assets/senior-notices/{{ year.year }}/{{ notice.file }}" target="_blank">{{ notice.name }}</a>
+      ({{ notice.date | date: "%B %-d, %Y" }})
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
