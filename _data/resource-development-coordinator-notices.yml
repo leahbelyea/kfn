@@ -1,8 +1,23 @@
 - year: 2015
   notices:
-  - date: 2015-10-15
-    name: 'Introduction'
-    file: 'Communityletter2015-CC.pdf'
+  - date: 2015-12-10
+    name: 'Employment Opportunity: First Nation Liaison'
+    file: 'EmploymentOpportunityTCP.pdf'
+  - date: 2015-12-10
+    name: 'Letter from Chief and Council'
+    file: 'LetterFromChiefCouncil.pdf'
+  - date: 2015-11-20
+    name: 'Traditional Knowledge Study Time Change'
+    file: 'TK-Newsletter-nov-20-2015.pdf'
+  - date: 2015-11-20
+    name: 'Treaty Education Time Change'
+    file: 'Treaty-ED-Nov-20-2015-newsletter.pdf'
+  - date: 2015-11-16
+    name: 'Newsletter Issue 1'
+    file: 'RDCC-Nov-2015.pdf'
   - date: 2015-10-16
     name: 'Community Opportunity'
     file: 'KFNComOppoct2015.pdf'
+  - date: 2015-10-15
+    name: 'Introduction'
+    file: 'Communityletter2015-CC.pdf'
