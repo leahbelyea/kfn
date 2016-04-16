@@ -1,5 +1,8 @@
 - year: 2016
   notices:
+  - date: 2016-04-15
+    name: 'Newsletter Issue 5'
+    file: 'RDCC_April_2016.pdf'
   - date: 2016-04-01
     name: 'Newsletter Issue 4'
     file: 'RDCC_Mar_2016.pdf'
