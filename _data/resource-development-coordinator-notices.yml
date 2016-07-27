@@ -1,5 +1,20 @@
 - year: 2016
   notices:
+  - date: 2016-07-27
+    name: 'Newsletter Issue 8'
+    file: 'RDCC_july_2016.pdf'
+  - date: 2016-07-15
+    name: 'Mactaquac Dam Future Options'
+    file: 'Mactaquac_Dam_MSES_Review_Findings_July_2016.pdf'
+  - date: 2016-07-15
+    name: 'Mactaquac Project'
+    file: 'Maliseet_Communities_Mting_July_2016.pdf'
+  - date: 2016-06-29
+    name: 'Maliseet Nation Meeting'
+    file: 'Maliseet_Nation_UPDATED_Flyer.pdf'
+  - date: 2016-06-29
+    name: 'Newsletter Issue 7'
+    file: 'RDCC_June_2016.pdf'
   - date: 2016-05-31
     name: 'Newsletter Issue 6'
     file: 'RDCC_May_2016.pdf'
