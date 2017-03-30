@@ -17,7 +17,7 @@ markdown: kramdown
 permalink: pretty
 paginate: 10
 paginate_path: "/news-events/news/page:num/"
-exclude: ["bower_components", "css/bower.css", "css/kfn.css", "css/kfn.css.map", "js/bower.js", "js/kfn.js", "js/kfn.min.js", "node_modules", "sass", ".gitignore", "bower.json", "Gruntfile.js", "package.json", "README.md"]
+exclude: ["bower_components", "css/bower.css", "css/kfn.css", "css/kfn.css.map", "js/bower.js", "js/kfn.js", "js/kfn.min.js", "node_modules", "sass", ".gitignore", "bower.json", "Gruntfile.js", "package.json", "README.md", "Gemfile", "Gemfile.lock"]
 
 # Homepage slider
 slider_images:
@@ -27,3 +27,6 @@ slider_images:
 - slider4.jpg
 - slider5.jpg
 - slider6.jpg
+
+# Gems
+gems: [jekyll-paginate]
