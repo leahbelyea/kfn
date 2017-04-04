@@ -2,3 +2,4 @@ bower_components/
 node_modules/
 css/
 .sass-cache
+.DS_Store

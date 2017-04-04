@@ -8,15 +8,30 @@ The registered population of the Kingsclear First Nation is approximately 981 me
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Mar 2017 21:20:16 -0300</pubDate>
-    <lastBuildDate>Wed, 29 Mar 2017 21:20:16 -0300</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2017 20:03:54 -0300</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2017 20:03:54 -0300</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>2017-2018 Post Secondary Education Funding Application</title>
+        <description>&lt;p&gt;Post secondary education funding application. &lt;a href=&quot;/assets/news/2017/PSEFundingAPPLICATION2017-18.docx&quot;&gt;Click here to download application&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Mar 2017 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/education/post%20secondary%20education/2017/03/30/post-secondary-education-funding-application/</link>
+        <guid isPermaLink="true">http://localhost:4000/education/post%20secondary%20education/2017/03/30/post-secondary-education-funding-application/</guid>
+        
+        
+        <category>education</category>
+        
+        <category>post secondary education</category>
+        
+      </item>
     
       <item>
         <title>ON-RESERVE MEMBER SURVEY - Comprehensive Community Plan</title>
         <description>&lt;p&gt;&lt;strong&gt;Give us your input and get a chance to win $100.00!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Kingsclear First Nation is seeking input from On-Reserve band members to help inform the new Kingsclear First Nation Comprehensive Community Plan, which will establish the community’s collective goals and aspirations for the next 15-20 years.  What will Kingsclear First Nation look like and be in 2030?  How can we get there? Your input will help us align plans, policies and by-laws with a community-driven vision for Kingsclear.&lt;/p&gt;
+&lt;p&gt;Kingsclear First Nation is seeking input from On-Reserve band members to help inform the new Kingsclear First Nation Comprehensive Community Plan, which will establish the community’s collective goals and aspirations for the next 15-20 years.  What will Kingsclear First Nation look like and be in 2030?  How can we get there? Your input will help us align plans, policies and by-laws with a community-driven vision for Kingsclear.&lt;!--end-excerpt--&gt;&lt;/p&gt;
 
 &lt;p&gt;The survey will be open for a limited time (until April 10th, 2017).  There is a spot at the end of the survey to input your name and contact information for a chance to win a $100.00 VISA gift card for participating&lt;/p&gt;
 
@@ -33,7 +48,7 @@ The registered population of the Kingsclear First Nation is approximately 981 me
         <title>OFF-RESERVE MEMBER SURVEY - Comprehensive Community Plan</title>
         <description>&lt;p&gt;&lt;strong&gt;Give us your input and get a chance to win $100.00!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Kingsclear First Nation is seeking input from Off-Reserve band members to help inform the new Kingsclear First Nation Comprehensive Community Plan, which will establish the community’s collective goals and aspirations for the next 15-20 years.  What will Kingsclear First Nation look like and be in 2030?  How can we get there? Your input will help us align plans, policies and by-laws with a community-driven vision for Kingsclear.&lt;/p&gt;
+&lt;p&gt;Kingsclear First Nation is seeking input from Off-Reserve band members to help inform the new Kingsclear First Nation Comprehensive Community Plan, which will establish the community’s collective goals and aspirations for the next 15-20 years.  What will Kingsclear First Nation look like and be in 2030?  How can we get there? Your input will help us align plans, policies and by-laws with a community-driven vision for Kingsclear.&lt;!--end-excerpt--&gt;&lt;/p&gt;
 
 &lt;p&gt;The survey will be open for a limited time (until April 10th, 2017).  There is a spot at the end of the survey to input your name and contact information for a chance to win a $100.00 VISA gift card for participating&lt;/p&gt;
 
@@ -110,21 +125,6 @@ The registered population of the Kingsclear First Nation is approximately 981 me
         <link>http://localhost:4000/2016/06/12/director-of-operations/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/06/12/director-of-operations/</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Post Secondary Education Funding Application</title>
-        <description>&lt;p&gt;Post secondary education funding application. &lt;a href=&quot;/assets/news/2016/PSEFundingAPPLICATION_APRIL 2016.docx&quot;&gt;Click here to download application&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/education/post%20secondary%20education/2016/04/20/post-secondary-education-funding-application/</link>
-        <guid isPermaLink="true">http://localhost:4000/education/post%20secondary%20education/2016/04/20/post-secondary-education-funding-application/</guid>
-        
-        
-        <category>education</category>
-        
-        <category>post secondary education</category>
         
       </item>
     
