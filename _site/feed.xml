@@ -8,9 +8,24 @@ The registered population of the Kingsclear First Nation is approximately 981 me
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Apr 2017 20:03:54 -0300</pubDate>
-    <lastBuildDate>Tue, 04 Apr 2017 20:03:54 -0300</lastBuildDate>
+    <pubDate>Tue, 16 May 2017 18:12:41 -0300</pubDate>
+    <lastBuildDate>Tue, 16 May 2017 18:12:41 -0300</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Job Posting: Prevention Worker</title>
+        <description>&lt;p&gt;Job posting: Prevention Worker. &lt;a href=&quot;/assets/news/2017/prevention-worker.pdf&quot; target=&quot;_blank&quot;&gt;Click here to view job listing&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 May 2017 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/education/post%20secondary%20education/2017/05/16/prevention-worker-job-posting/</link>
+        <guid isPermaLink="true">http://localhost:4000/education/post%20secondary%20education/2017/05/16/prevention-worker-job-posting/</guid>
+        
+        
+        <category>education</category>
+        
+        <category>post secondary education</category>
+        
+      </item>
     
       <item>
         <title>2017-2018 Post Secondary Education Funding Application</title>
@@ -137,19 +152,6 @@ The registered population of the Kingsclear First Nation is approximately 981 me
         <pubDate>Mon, 11 Jan 2016 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2016/01/11/nbpower-oil-spill-update/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/01/11/nbpower-oil-spill-update/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Job Advertisement: Director of Kingsclear Child &amp; Family Services</title>
-        <description>&lt;p&gt;Please see the job posting below for Director of Kingsclear Child &amp;amp; Family Services.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/news/2016/CFSDirector2016.pdf&quot;&gt;Director of Kingsclear Child &amp;amp; Family Services Job Posting&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Jan 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/01/06/cfs-director-job-posting/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/01/06/cfs-director-job-posting/</guid>
         
         
       </item>
