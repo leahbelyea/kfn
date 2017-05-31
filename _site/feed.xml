@@ -8,22 +8,29 @@ The registered population of the Kingsclear First Nation is approximately 981 me
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 May 2017 18:12:41 -0300</pubDate>
-    <lastBuildDate>Tue, 16 May 2017 18:12:41 -0300</lastBuildDate>
+    <pubDate>Tue, 30 May 2017 21:56:11 -0300</pubDate>
+    <lastBuildDate>Tue, 30 May 2017 21:56:11 -0300</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Wastewater System Upgrades</title>
+        <description>&lt;p&gt;Upgrades to the community wastewater treatment system will start over the next week and continue into the Fall as we improve our infrastructure to accommodate the growth the community has been experiencing as of late. &lt;a href=&quot;/assets/news/2017/NOTICE_KFN_WWTF_effluent.pdf&quot; target=&quot;_blank&quot;&gt;See notice for more detail&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 May 2017 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2017/05/30/wastewater-system-upgrades/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/30/wastewater-system-upgrades/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Job Posting: Prevention Worker</title>
         <description>&lt;p&gt;Job posting: Prevention Worker. &lt;a href=&quot;/assets/news/2017/prevention-worker.pdf&quot; target=&quot;_blank&quot;&gt;Click here to view job listing&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/education/post%20secondary%20education/2017/05/16/prevention-worker-job-posting/</link>
-        <guid isPermaLink="true">http://localhost:4000/education/post%20secondary%20education/2017/05/16/prevention-worker-job-posting/</guid>
+        <link>http://localhost:4000/2017/05/16/prevention-worker-job-posting/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/16/prevention-worker-job-posting/</guid>
         
-        
-        <category>education</category>
-        
-        <category>post secondary education</category>
         
       </item>
     
@@ -139,19 +146,6 @@ The registered population of the Kingsclear First Nation is approximately 981 me
         <pubDate>Sun, 12 Jun 2016 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/2016/06/12/director-of-operations/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/06/12/director-of-operations/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>NB Power Oil Spill Update</title>
-        <description>&lt;p&gt;Please see the notice below regarding the NB Power oil spill.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/resource-development-coordinator-notices/2016/NB-Power-oil-spill-update.pdf&quot;&gt;NB Power Oil Spill Update&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Jan 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/01/11/nbpower-oil-spill-update/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/01/11/nbpower-oil-spill-update/</guid>
         
         
       </item>
