@@ -8,9 +8,20 @@ The registered population of the Kingsclear First Nation is approximately 981 me
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 May 2018 21:43:01 -0300</pubDate>
-    <lastBuildDate>Wed, 02 May 2018 21:43:01 -0300</lastBuildDate>
+    <pubDate>Fri, 04 May 2018 22:00:41 -0300</pubDate>
+    <lastBuildDate>Fri, 04 May 2018 22:00:41 -0300</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Amended Human Resources Policy</title>
+        <description>&lt;p&gt;The Kingsclear First Nation Human Resources Policy Administrative Policy and Procedure Manual was amended on April 12, 2018. &lt;a href=&quot;/assets/news/2018/AmendedHRPolicy.pdf&quot; target=&quot;_blank&quot;&gt;Click here to view the amended HR policy&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 May 2018 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2018/05/04/Amended-HR-Policy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/04/Amended-HR-Policy/</guid>
+        
+        
+      </item>
     
       <item>
         <title>2018-2019 Post Secondary Education Funding Application</title>
@@ -29,7 +40,9 @@ The registered population of the Kingsclear First Nation is approximately 981 me
     
       <item>
         <title>Human Resources Policy</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/news/2018/KingsclearFirstNation2018HRPolicy.pdf&quot; target=&quot;_blank&quot;&gt;Click here to view the Kingsclear First Nation Human Resources Policy Administrative Policy and Procedure Manual&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;Update: Please note the Kingsclear First Nation Human Resources Policy Administrative Policy and Procedure Manual was amended on April 12, 2018. &lt;a href=&quot;/assets/news/2018/AmendedHRPolicy.pdf&quot; target=&quot;_blank&quot;&gt;Click here to view the amended HR policy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/news/2018/KingsclearFirstNation2018HRPolicy.pdf&quot; target=&quot;_blank&quot;&gt;Click here to view the Kingsclear First Nation Human Resources Policy Administrative Policy and Procedure Manual&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Mar 2018 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/2018/03/27/HR-Policy/</link>
@@ -127,19 +140,6 @@ The registered population of the Kingsclear First Nation is approximately 981 me
         <pubDate>Mon, 26 Sep 2016 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/2016/09/26/wsis_week/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/09/26/wsis_week/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Poetry Slam</title>
-        <description>&lt;p&gt;Calling all performers! Our poetry slam gives voice to those who want to express their feelings about missing and murdered women, girls, and men through poetry.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/news/2016/Poetry_Slam_Poster.jpg&quot;&gt;&lt;img src=&quot;/assets/news/2016/Poetry_Slam_Poster.jpg&quot; alt=&quot;Poetry Slam Poster&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Sep 2016 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2016/09/26/poetry-slam/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/09/26/poetry-slam/</guid>
         
         
       </item>
