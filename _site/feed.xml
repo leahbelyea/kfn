@@ -8,9 +8,25 @@ The registered population of the Kingsclear First Nation is approximately 981 me
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Jul 2018 20:45:55 -0300</pubDate>
-    <lastBuildDate>Wed, 11 Jul 2018 20:45:55 -0300</lastBuildDate>
+    <pubDate>Thu, 12 Jul 2018 22:55:16 -0300</pubDate>
+    <lastBuildDate>Thu, 12 Jul 2018 22:55:16 -0300</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Job Postings</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/news/2018/20180705- Finance Clerk job posting.docx&quot; target=&quot;_blank&quot;&gt;Finance Clerk&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/news/2018/20180705- Special events job posting.docx&quot; target=&quot;_blank&quot;&gt;Special Events Coordinator&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/news/2018/20180711- EA job posting.docx&quot; target=&quot;_blank&quot;&gt;Educational Assistant&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/news/2018/20180711- NNADAP job posting.docx&quot; target=&quot;_blank&quot;&gt;Alcohol and Drug Director&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/news/2018/20180711-Indigennous Student advisor- job posting final.docx&quot; target=&quot;_blank&quot;&gt;Indigenous Student Advisor&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/news/2018/20180711-LPN job posting.docx&quot; target=&quot;_blank&quot;&gt;LPN&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Jul 2018 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2018/07/12/job-postings/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/12/job-postings/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Amended Human Resources Policy</title>
@@ -125,21 +141,6 @@ The registered population of the Kingsclear First Nation is approximately 981 me
         <pubDate>Wed, 29 Mar 2017 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/2017/03/29/off-reserve-survey/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/03/29/off-reserve-survey/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>WSIS Week of Awareness</title>
-        <description>&lt;p&gt;Wolastoqiyik Sisters in Spirit Week of Awareness&lt;/p&gt;
-
-&lt;p&gt;October 3-8, 2016&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/news/2016/WSIS_Week_of_Events.jpg&quot;&gt;&lt;img src=&quot;/assets/news/2016/WSIS_Week_of_Events.jpg&quot; alt=&quot;Week of Awareness Schedule&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Sep 2016 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2016/09/26/wsis_week/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/09/26/wsis_week/</guid>
         
         
       </item>
