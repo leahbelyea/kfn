@@ -7,8 +7,6 @@
     path: '/about/chief-council'
   - name: 'Contact Us'
     path: '/about/contact-us'
-  - name: 'Office Directory'
-    path: '/about/office-directory'
 
 - name: 'News & Events'
   dir: 'news-events'
@@ -46,15 +44,11 @@
     path: '/departments-services/senior-centre'
   - name: 'Training Centre'
     path: '/departments-services/training-centre'
-  - name: 'Youth Centre'
-    path: '/departments-services/youth-centre'
-  - name: 'Fire Department'
-    path: '/departments-services/fire-department'
   - name: 'Social Assistance'
     path: '/departments-services/social-assistance'
   - name: 'Child & Family Services'
     path: '/departments-services/child-family-services'
-  - name: 'Housing & Infrastructure'
+  - name: 'Public Works / Infra-Structure'
     path: '/departments-services/housing-infrastructure'
     sub_pages:
     - name: 'Water Treatment'
@@ -105,3 +99,7 @@
 - name: 'Links'
   dir: 'links'
   path: '/links/'
+
+- name: 'Directory'
+  dir: 'directory'
+  path: '/directory/'

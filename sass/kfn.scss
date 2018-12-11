@@ -11,8 +11,11 @@ $backdrop-color:        #f0f0f0;
 $backdrop-darker:       #e0e0e0;
 $backdrop-lighter:      #fff;
 
-$link-primary-color:    #b22900;
-$link-secondary-color:  #de3200;
+$link-primary-color:    #3A6472;
+$link-secondary-color:  #20929D;
+
+$logo-color-light:      #20929D;
+$logo-color-dark:       #3A6472;
 
 $content-width:         660px;
 $sidebar-width:         260px;
@@ -33,6 +36,14 @@ body {
 h1, h2, h3, h4 {
   font-family: $header-font-family;
   font-weight: bold;
+}
+
+h1 {
+  color: $logo-color-light;
+}
+
+h2.post-title {
+  color: $logo-color-light;
 }
 
 p {
@@ -64,6 +75,11 @@ table {
   td {
     padding: 0 40px 10px 0;
   }
+  td.table-title {
+    text-align: center;
+    background: #ddd;
+    font-weight: bold;
+  }
 }
 
 // Header, footer, nav
@@ -74,7 +90,7 @@ header.page-header {
   z-index: 3;
 
   #title {
-    background: $backdrop-color;
+    background: #fff;
 
     h1 {
       margin: 0;
@@ -85,7 +101,7 @@ header.page-header {
   }
 
   img {
-    width: 80px;
+    width: 94px;
     position: absolute;
     top: 10px;
     left: 20px;
@@ -105,7 +121,6 @@ footer {
 }
 
 #main-nav {
-  border-top: 1px solid #c0c0c0;
   border-bottom: 1px solid #a0a0a0;
   font-size: 0;
   background: #fff;
@@ -127,12 +142,12 @@ footer {
       list-style: none;
 
       a, a:hover {
-        padding: 5px 20px;
+        padding: 5px 16px;
         line-height: 1.5em;
         text-decoration: none;
         display: block;
         color: #000000;
-        font-size: 19px;
+        font-size: 18px;
       }
 
       a:hover, a:focus {
@@ -254,7 +269,7 @@ footer {
 
 // Departments
 .department {
-  
+
   .contact {
     margin-top: 20px;
 
@@ -310,7 +325,7 @@ footer {
     display: inline;
     font-size: 0.8em;
   }
-  
+
   a.read-more {
     text-decoration: none;
     font-weight: bold;
@@ -409,7 +424,7 @@ ul.senior-notices {
 // Homepage
 .home {
   margin-left: -10px;
-  
+
   .recent-news {
 
     h2 {
@@ -487,7 +502,7 @@ ul.senior-notices {
 // Posts
 .post {
   .content {
-  
+
     h2 {
       margin-bottom: 0;
     }
@@ -503,7 +518,7 @@ ul.senior-notices {
 // Paging
 .pager {
   padding: 0;
-  
+
   a {
     text-decoration: none;
     font-weight: bold;
@@ -564,7 +579,7 @@ ul.senior-notices {
 }
 
 .byline {
-  font-weight: bold; 
+  font-weight: bold;
   font-size: 14px;
   margin-top: -15px;
 }
